@@ -1,0 +1,7 @@
+,Lunar module (LM),LM mass (kg),Command module (CM),CM mass (kg),LM mass diff,CM mass diff
+0,Eagle (LM-5),15103,Columbia (CSM-107),5560,0.0,0.0
+1,Intrepid (LM-6),15235,Yankee Clipper (CM-108),5609,132.0,49.0
+2,Antares (LM-8),15264,Kitty Hawk (CM-110),5758,29.0,149.0
+3,Falcon (LM-10),16430,Endeavor (CM-112),5875,1166.0,117.0
+4,Orion (LM-11),16445,Casper (CM-113),5840,15.0,-35.0
+5,Challenger (LM-12),16456,America (CM-114),5960,11.0,120.0
